@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8730/trunk/nltk/nltk/misc
+END
+chomsky.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6776/trunk/nltk/nltk/misc/chomsky.py
+END
+babelfish.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7719/trunk/nltk/nltk/misc/babelfish.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk/misc/__init__.py
+END
+minimalset.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8730/trunk/nltk/nltk/misc/minimalset.py
+END
+wordfinder.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8730/trunk/nltk/nltk/misc/wordfinder.py
+END
+sort.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/nltk/misc/sort.py
+END

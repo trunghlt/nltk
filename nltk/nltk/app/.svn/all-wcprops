@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8730/trunk/nltk/nltk/app
+END
+collocations_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8730/trunk/nltk/nltk/app/collocations_app.py
+END
+wordfreq_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8730/trunk/nltk/nltk/app/wordfreq_app.py
+END
+chartparser_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8730/trunk/nltk/nltk/app/chartparser_app.py
+END
+concordance_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8730/trunk/nltk/nltk/app/concordance_app.py
+END
+nemo_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8404/trunk/nltk/nltk/app/nemo_app.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8730/trunk/nltk/nltk/app/__init__.py
+END
+wxwordnet_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/nltk/app/wxwordnet_app.py
+END
+srparser_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8730/trunk/nltk/nltk/app/srparser_app.py
+END
+wordnet_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8730/trunk/nltk/nltk/app/wordnet_app.py
+END
+rdparser_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8730/trunk/nltk/nltk/app/rdparser_app.py
+END
+chunkparser_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8730/trunk/nltk/nltk/app/chunkparser_app.py
+END

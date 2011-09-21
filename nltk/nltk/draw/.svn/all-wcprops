@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8812/trunk/nltk/nltk/draw
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/nltk/draw/util.py
+END
+tree.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8812/trunk/nltk/nltk/draw/tree.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk/draw/__init__.py
+END
+dispersion.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8730/trunk/nltk/nltk/draw/dispersion.py
+END
+cfg.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8730/trunk/nltk/nltk/draw/cfg.py
+END
+table.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8730/trunk/nltk/nltk/draw/table.py
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8791/trunk/nltk/nltk/tag
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8777/trunk/nltk/nltk/tag/api.py
+END
+crf.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8730/trunk/nltk/nltk/tag/crf.py
+END
+sequential.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/tag/sequential.py
+END
+simplify.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8730/trunk/nltk/nltk/tag/simplify.py
+END
+hunpos.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8730/trunk/nltk/nltk/tag/hunpos.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8777/trunk/nltk/nltk/tag/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8730/trunk/nltk/nltk/tag/__init__.py
+END
+stanford.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8730/trunk/nltk/nltk/tag/stanford.py
+END
+hmm.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8791/trunk/nltk/nltk/tag/hmm.py
+END
+brill.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/nltk/tag/brill.py
+END
+tnt.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8730/trunk/nltk/nltk/tag/tnt.py
+END

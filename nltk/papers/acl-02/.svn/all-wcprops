@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8730/trunk/nltk/papers/acl-02
+END
+contest.ps.gz
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-02/contest.ps.gz
+END
+chartparse.eps.gz
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-02/chartparse.eps.gz
+END
+acl2002.sty
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-02/acl2002.sty
+END
+nltk.bib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-02/nltk.bib
+END
+acl.bst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-02/acl.bst
+END
+acl-02.tex
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-02/acl-02.tex
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-02/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/papers/acl-02/Makefile
+END

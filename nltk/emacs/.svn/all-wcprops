@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6209/trunk/nltk/emacs
+END
+pycomplete.el
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3292/trunk/nltk/emacs/pycomplete.el
+END
+python-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3292/trunk/nltk/emacs/python-mode.el
+END
+psvn.el
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6099/trunk/nltk/emacs/psvn.el
+END
+doctest-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3292/trunk/nltk/emacs/doctest-mode.el
+END
+rst.el
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6209/trunk/nltk/emacs/rst.el
+END
+pycomplete.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3292/trunk/nltk/emacs/pycomplete.py
+END
+rst-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3292/trunk/nltk/emacs/rst-mode.el
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8808/trunk/nltk/nltk/cluster
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8730/trunk/nltk/nltk/cluster/api.py
+END
+gaac.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8777/trunk/nltk/nltk/cluster/gaac.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8808/trunk/nltk/nltk/cluster/util.py
+END
+kmeans.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/cluster/kmeans.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8730/trunk/nltk/nltk/cluster/__init__.py
+END
+em.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8730/trunk/nltk/nltk/cluster/em.py
+END

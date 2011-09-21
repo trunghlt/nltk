@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8358/trunk/nltk/examples/grammars/sample_grammars
+END
+bindop.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8260/trunk/nltk/examples/grammars/sample_grammars/bindop.fcfg
+END
+glue.semtype
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/glue.semtype
+END
+np.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/np.fcfg
+END
+glue_event.semtype
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/glue_event.semtype
+END
+event.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7774/trunk/nltk/examples/grammars/sample_grammars/event.fcfg
+END
+chat_pnames.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/chat_pnames.fcfg
+END
+drt_glue.semtype
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/drt_glue.semtype
+END
+hole.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/hole.fcfg
+END
+drt_glue_event.semtype
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/drt_glue_event.semtype
+END
+chat80.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8253/trunk/nltk/examples/grammars/sample_grammars/chat80.fcfg
+END
+glue_train.conll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/glue_train.conll
+END
+dep_test2.dep
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/dep_test2.dep
+END
+sql.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/sql.fcfg
+END
+valuation1.val
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/valuation1.val
+END
+gluesemantics.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/gluesemantics.fcfg
+END
+sem0.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8253/trunk/nltk/examples/grammars/sample_grammars/sem0.fcfg
+END
+toy.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8358/trunk/nltk/examples/grammars/sample_grammars/toy.cfg
+END
+sem1.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8253/trunk/nltk/examples/grammars/sample_grammars/sem1.fcfg
+END
+sem2.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8227/trunk/nltk/examples/grammars/sample_grammars/sem2.fcfg
+END
+background0.fol
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/sample_grammars/background0.fol
+END

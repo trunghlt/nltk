@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8809/trunk/nltk/nltk/corpus/reader
+END
+rte.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/rte.py
+END
+tagged.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/tagged.py
+END
+nps_chat.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/nps_chat.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8762/trunk/nltk/nltk/corpus/reader/__init__.py
+END
+ycoe.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/ycoe.py
+END
+ppattach.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/ppattach.py
+END
+bracket_parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8784/trunk/nltk/nltk/corpus/reader/bracket_parse.py
+END
+verbnet.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/verbnet.py
+END
+wordlist.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/wordlist.py
+END
+conll.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/conll.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/api.py
+END
+xmldocs.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/xmldocs.py
+END
+childes.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8805/trunk/nltk/nltk/corpus/reader/childes.py
+END
+knbc.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/knbc.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/util.py
+END
+dependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/dependency.py
+END
+ipipan.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/ipipan.py
+END
+chunked.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/chunked.py
+END
+ieer.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/ieer.py
+END
+nombank.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/nombank.py
+END
+timit.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8809/trunk/nltk/nltk/corpus/reader/timit.py
+END
+cmudict.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/cmudict.py
+END
+chasen.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/chasen.py
+END
+bnc.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/bnc.py
+END
+indian.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/indian.py
+END
+string_category.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/string_category.py
+END
+aligned.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/aligned.py
+END
+pl196x.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/pl196x.py
+END
+plaintext.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/plaintext.py
+END
+switchboard.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8771/trunk/nltk/nltk/corpus/reader/switchboard.py
+END
+propbank.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8730/trunk/nltk/nltk/corpus/reader/propbank.py
+END
+senseval.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/senseval.py
+END
+sinica_treebank.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/sinica_treebank.py
+END
+wordnet.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/wordnet.py
+END
+toolbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8777/trunk/nltk/nltk/corpus/reader/toolbox.py
+END

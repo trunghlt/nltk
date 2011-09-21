@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8730/trunk/nltk/papers/acl-04
+END
+acl-04.tex
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-04/acl-04.tex
+END
+acl04.sty
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-04/acl04.sty
+END
+nltk.bib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-04/nltk.bib
+END
+chart.eps.gz
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-04/chart.eps.gz
+END
+acl.bst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-04/acl.bst
+END
+chart-matrix.gif
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-04/chart-matrix.gif
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3670/trunk/nltk/papers/acl-04/.cvsignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/papers/acl-04/Makefile
+END

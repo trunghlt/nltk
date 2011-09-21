@@ -1,0 +1,46 @@
+K 10
+svn:ignore
+V 438
+*.html
+*.pdf
+*.aux
+*.log
+*.out
+tree_images
+*.idx
+*.ilg
+*.ind
+*.ref
+book.toc
+advanced-parsing.py
+advanced-programming.py
+cheat-sheet.py
+chunk.py
+data.py
+engineering.py
+featgram.py
+introduction.py
+nlp-python.py
+nltk.py
+parse.py
+preface-nltk.py
+preface.py
+programming.py
+projects.py
+semantics.py
+structured-programming.py
+tag.py
+words.py
+term_index.py
+data-intensive.py
+nltk-modules.py
+book.tex
+applied-programming.py
+pylisting
+revision.txt
+
+K 13
+svn:mergeinfo
+V 0
+
+END

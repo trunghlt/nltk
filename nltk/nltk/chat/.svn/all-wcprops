@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8730/trunk/nltk/nltk/chat
+END
+iesha.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8730/trunk/nltk/nltk/chat/iesha.py
+END
+zen.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8730/trunk/nltk/nltk/chat/zen.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/nltk/chat/util.py
+END
+rude.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/nltk/chat/rude.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk/chat/__init__.py
+END
+suntsu.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8730/trunk/nltk/nltk/chat/suntsu.py
+END
+eliza.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8730/trunk/nltk/nltk/chat/eliza.py
+END

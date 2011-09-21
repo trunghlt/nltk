@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8787/trunk/nltk/nltk/inference
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8408/trunk/nltk/nltk/inference/api.py
+END
+tableau.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/nltk/inference/tableau.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8730/trunk/nltk/nltk/inference/__init__.py
+END
+discourse.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8435/trunk/nltk/nltk/inference/discourse.py
+END
+nonmonotonic.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8787/trunk/nltk/nltk/inference/nonmonotonic.py
+END
+resolution.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8787/trunk/nltk/nltk/inference/resolution.py
+END
+mace.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8570/trunk/nltk/nltk/inference/mace.py
+END
+prover9.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/nltk/inference/prover9.py
+END

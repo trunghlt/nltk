@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8820/trunk/nltk/nltk/test
+END
+tag.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/tag.doctest
+END
+corpus.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8771/trunk/nltk/nltk/test/corpus.doctest
+END
+relextract.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/relextract.doctest
+END
+treetransforms.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8784/trunk/nltk/nltk/test/treetransforms.doctest
+END
+dependency.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/dependency.doctest
+END
+nonmonotonic.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8787/trunk/nltk/nltk/test/nonmonotonic.doctest
+END
+probability.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8820/trunk/nltk/nltk/test/probability.doctest
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/__init__.py
+END
+featstruct.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/featstruct.doctest
+END
+portuguese_en.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/portuguese_en.doctest
+END
+japanese.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/japanese.doctest
+END
+featgram.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8787/trunk/nltk/nltk/test/featgram.doctest
+END
+grammar.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/grammar.doctest
+END
+semantics.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8787/trunk/nltk/nltk/test/semantics.doctest
+END
+align.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/align.doctest
+END
+misc.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/misc.doctest
+END
+sourcedstring.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8544/trunk/nltk/nltk/test/sourcedstring.doctest
+END
+internals.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/internals.doctest
+END
+sem3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4645/trunk/nltk/nltk/test/sem3.cfg
+END
+gluesemantics.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8783/trunk/nltk/nltk/test/gluesemantics.doctest
+END
+doctest_driver.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8705/trunk/nltk/nltk/test/doctest_driver.py
+END
+toy.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8343/trunk/nltk/nltk/test/toy.cfg
+END
+metrics.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/metrics.doctest
+END
+stem.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/stem.doctest
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8696/trunk/nltk/nltk/test/Makefile
+END
+portuguese.doctest_latin1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5433/trunk/nltk/nltk/test/portuguese.doctest_latin1
+END
+onto1.fol
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5651/trunk/nltk/nltk/test/onto1.fol
+END
+simple.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8234/trunk/nltk/nltk/test/simple.py
+END
+util.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/util.doctest
+END
+classify.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8802/trunk/nltk/nltk/test/classify.doctest
+END
+coverage.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5908/trunk/nltk/nltk/test/coverage.py
+END
+childes.rst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8805/trunk/nltk/nltk/test/childes.rst
+END
+wordnet.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8784/trunk/nltk/nltk/test/wordnet.doctest
+END
+grammartestsuites.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/grammartestsuites.doctest
+END
+toolbox.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/toolbox.doctest
+END
+chat80.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8784/trunk/nltk/nltk/test/chat80.doctest
+END
+tokenize.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/tokenize.doctest
+END
+floresta.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5334/trunk/nltk/nltk/test/floresta.txt
+END
+drt.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8787/trunk/nltk/nltk/test/drt.doctest
+END
+collocations.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/collocations.doctest
+END
+simple.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/simple.doctest
+END
+all.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7567/trunk/nltk/nltk/test/all.py
+END
+ccg.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8784/trunk/nltk/nltk/test/ccg.doctest
+END
+testrunner.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8428/trunk/nltk/nltk/test/testrunner.py
+END
+logic.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8787/trunk/nltk/nltk/test/logic.doctest
+END
+inference.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8783/trunk/nltk/nltk/test/inference.doctest
+END
+tree.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8784/trunk/nltk/nltk/test/tree.doctest
+END
+discourse.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/discourse.doctest
+END
+resolution.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/resolution.doctest
+END
+chunk.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/chunk.doctest
+END
+data.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8769/trunk/nltk/nltk/test/data.doctest
+END
+parse.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8730/trunk/nltk/nltk/test/parse.doctest
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6772/trunk/nltk/nltk_data/samples
+END
+city.db
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6772/trunk/nltk/nltk_data/samples/city.db
+END
+sinorama-utf8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6485/trunk/nltk/nltk_data/samples/sinorama-utf8.xml
+END
+polish-lat2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6485/trunk/nltk/nltk_data/samples/polish-lat2.txt
+END
+sinorama-gb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6485/trunk/nltk/nltk_data/samples/sinorama-gb.xml
+END

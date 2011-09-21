@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8796/trunk/nltk/nltk/sem
+END
+linearlogic.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8758/trunk/nltk/nltk/sem/linearlogic.py
+END
+lfg.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8730/trunk/nltk/nltk/sem/lfg.py
+END
+drt_glue_demo.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/nltk/sem/drt_glue_demo.py
+END
+drt.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8795/trunk/nltk/nltk/sem/drt.py
+END
+cooper_storage.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8730/trunk/nltk/nltk/sem/cooper_storage.py
+END
+glue.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8730/trunk/nltk/nltk/sem/glue.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8777/trunk/nltk/nltk/sem/util.py
+END
+logic.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8787/trunk/nltk/nltk/sem/logic.py
+END
+relextract.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/sem/relextract.py
+END
+boxer.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8796/trunk/nltk/nltk/sem/boxer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8782/trunk/nltk/nltk/sem/__init__.py
+END
+evaluate.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8777/trunk/nltk/nltk/sem/evaluate.py
+END
+hole.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8730/trunk/nltk/nltk/sem/hole.py
+END
+chat80.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8784/trunk/nltk/nltk/sem/chat80.py
+END

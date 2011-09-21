@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars
+END
+basque1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque1.cfg
+END
+basque1.pcfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque1.pcfg
+END
+basque2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque2.cfg
+END
+basque2.pcfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque2.pcfg
+END
+basque3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque3.cfg
+END
+basque1.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque1.fcfg
+END
+basque2.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque2.fcfg
+END
+basque3.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque3.fcfg
+END
+basque1.regexp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque1.regexp
+END
+basque2.regexp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque2.regexp
+END
+basque3.regexp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque3.regexp
+END
+basque4.regexp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque4.regexp
+END
+basque5.regexp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/basque_grammars/basque5.regexp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7604/trunk/nltk/doc/pt-br
+END
+introduction.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5313/trunk/nltk/doc/pt-br/introduction.txt
+END
+programming.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4647/trunk/nltk/doc/pt-br/programming.txt
+END
+preface.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2976/trunk/nltk/doc/pt-br/preface.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2976/trunk/nltk/doc/pt-br/index.txt
+END
+tag.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4647/trunk/nltk/doc/pt-br/tag.txt
+END
+words.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4647/trunk/nltk/doc/pt-br/words.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2976/trunk/nltk/doc/pt-br/Makefile
+END

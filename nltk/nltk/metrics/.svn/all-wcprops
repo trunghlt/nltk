@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8818/trunk/nltk/nltk/metrics
+END
+confusionmatrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8730/trunk/nltk/nltk/metrics/confusionmatrix.py
+END
+artstein_poesio_example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7459/trunk/nltk/nltk/metrics/artstein_poesio_example.txt
+END
+distance.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8777/trunk/nltk/nltk/metrics/distance.py
+END
+association.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8740/trunk/nltk/nltk/metrics/association.py
+END
+scores.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/metrics/scores.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8778/trunk/nltk/nltk/metrics/__init__.py
+END
+windowdiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8730/trunk/nltk/nltk/metrics/windowdiff.py
+END
+spearman.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8730/trunk/nltk/nltk/metrics/spearman.py
+END
+agreement.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8818/trunk/nltk/nltk/metrics/agreement.py
+END

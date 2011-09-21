@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/8730/trunk/nltk/tools
+END
+googlecode_upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8557/trunk/nltk/tools/googlecode_upload.py
+END
+global_replace.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8730/trunk/nltk/tools/global_replace.py
+END
+svnmime.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8557/trunk/nltk/tools/svnmime.py
+END
+nltk_term_index.stoplist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7990/trunk/nltk/tools/nltk_term_index.stoplist
+END
+find_deprecated.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8730/trunk/nltk/tools/find_deprecated.py
+END
+relocate_svn.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/tools/relocate_svn.py
+END
+nltk_term_index.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8557/trunk/nltk/tools/nltk_term_index.py
+END
+update_checksums.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/tools/update_checksums.py
+END
+build_pkg_index.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8557/trunk/nltk/tools/build_pkg_index.py
+END

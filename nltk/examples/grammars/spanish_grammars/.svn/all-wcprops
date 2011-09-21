@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars
+END
+spanish1.regexp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish1.regexp
+END
+spanish2.regexp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish2.regexp
+END
+spanish3.regexp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish3.regexp
+END
+spanish4.regexp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish4.regexp
+END
+spanish5.regexp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish5.regexp
+END
+spanish1.pcfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish1.pcfg
+END
+spanish1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish1.cfg
+END
+spanish2.pcfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish2.pcfg
+END
+spanish2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish2.cfg
+END
+spanish3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish3.cfg
+END
+spanish1.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish1.fcfg
+END
+spanish2.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7122/trunk/nltk/examples/grammars/spanish_grammars/spanish2.fcfg
+END

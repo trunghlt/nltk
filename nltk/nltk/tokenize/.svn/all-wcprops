@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8803/trunk/nltk/nltk/tokenize
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8730/trunk/nltk/nltk/tokenize/api.py
+END
+simple.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8730/trunk/nltk/nltk/tokenize/simple.py
+END
+regexp.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8778/trunk/nltk/nltk/tokenize/regexp.py
+END
+texttiling.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8803/trunk/nltk/nltk/tokenize/texttiling.py
+END
+treebank.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/nltk/tokenize/treebank.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk/tokenize/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8778/trunk/nltk/nltk/tokenize/__init__.py
+END
+sexpr.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/tokenize/sexpr.py
+END
+punkt.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/tokenize/punkt.py
+END

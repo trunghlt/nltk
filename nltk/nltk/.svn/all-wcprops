@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/8820/trunk/nltk/nltk
+END
+help.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8730/trunk/nltk/nltk/help.py
+END
+collocations.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8730/trunk/nltk/nltk/collocations.py
+END
+book.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8730/trunk/nltk/nltk/book.py
+END
+align.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8781/trunk/nltk/nltk/align.py
+END
+sourcedstring.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8544/trunk/nltk/nltk/sourcedstring.py
+END
+nltk.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6112/trunk/nltk/nltk/nltk.jar
+END
+downloader.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8730/trunk/nltk/nltk/downloader.py
+END
+internals.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/nltk/internals.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8779/trunk/nltk/nltk/__init__.py
+END
+tree.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8814/trunk/nltk/nltk/tree.py
+END
+containers.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8813/trunk/nltk/nltk/containers.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8706/trunk/nltk/nltk/decorators.py
+END
+evaluate.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8777/trunk/nltk/nltk/evaluate.py
+END
+data.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8730/trunk/nltk/nltk/data.py
+END
+lazyimport.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8125/trunk/nltk/nltk/lazyimport.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8778/trunk/nltk/nltk/util.py
+END
+treetransforms.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8814/trunk/nltk/nltk/treetransforms.py
+END
+olac.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8730/trunk/nltk/nltk/olac.py
+END
+probability.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8807/trunk/nltk/nltk/probability.py
+END
+yamltags.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8732/trunk/nltk/nltk/yamltags.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8730/trunk/nltk/nltk/compat.py
+END
+featstruct.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8730/trunk/nltk/nltk/featstruct.py
+END
+text.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8811/trunk/nltk/nltk/text.py
+END
+grammar.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8777/trunk/nltk/nltk/grammar.py
+END

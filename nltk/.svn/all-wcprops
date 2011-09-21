@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/8820/trunk/nltk
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8730/trunk/nltk/NOTICE.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8730/trunk/nltk/LICENSE.txt
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8235/trunk/nltk/INSTALL.txt
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8784/trunk/nltk/ChangeLog
+END
+setup-distutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8730/trunk/nltk/setup-distutils.py
+END
+setup-eggs.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8730/trunk/nltk/setup-eggs.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8730/trunk/nltk/README.txt
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/8285/trunk/nltk/MANIFEST.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8730/trunk/nltk/Makefile
+END
+cd.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6493/trunk/nltk/cd.pdf
+END
+RELEASE-HOWTO
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8788/trunk/nltk/RELEASE-HOWTO
+END

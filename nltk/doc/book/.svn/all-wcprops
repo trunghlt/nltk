@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8819/trunk/nltk/doc/book
+END
+custom_rst.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7604/trunk/nltk/doc/book/custom_rst.txt
+END
+ch09-old.rst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8170/trunk/nltk/doc/book/ch09-old.rst
+END
+CheckList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7939/trunk/nltk/doc/book/CheckList.txt
+END
+ch07-old-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7607/trunk/nltk/doc/book/ch07-old-extras.rst
+END
+ch6-fmla.tex
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8147/trunk/nltk/doc/book/ch6-fmla.tex
+END
+regexp-defns.rst
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7604/trunk/nltk/doc/book/regexp-defns.rst
+END
+ch10.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8692/trunk/nltk/doc/book/ch10.rst
+END
+nlpir.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7604/trunk/nltk/doc/book/nlpir.txt
+END
+definitions-pt.rst
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8397/trunk/nltk/doc/book/definitions-pt.rst
+END
+ch11.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8464/trunk/nltk/doc/book/ch11.rst
+END
+ch12.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8452/trunk/nltk/doc/book/ch12.rst
+END
+term_index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7604/trunk/nltk/doc/book/term_index.rst
+END
+introduction-code.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7604/trunk/nltk/doc/book/introduction-code.txt
+END
+ch02-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7737/trunk/nltk/doc/book/ch02-extras.rst
+END
+ch12-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7980/trunk/nltk/doc/book/ch12-extras.rst
+END
+dict.csv
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7604/trunk/nltk/doc/book/dict.csv
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/doc/book/Makefile
+END
+reprint1-1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8438/trunk/nltk/doc/book/reprint1-1.txt
+END
+reprint1-2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8443/trunk/nltk/doc/book/reprint1-2.txt
+END
+reprint1-3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8462/trunk/nltk/doc/book/reprint1-3.txt
+END
+app-reference.rst
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7604/trunk/nltk/doc/book/app-reference.rst
+END
+reprint1-4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8466/trunk/nltk/doc/book/reprint1-4.txt
+END
+footer-pt.rst
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8397/trunk/nltk/doc/book/footer-pt.rst
+END
+ch01-notes.rst
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7604/trunk/nltk/doc/book/ch01-notes.rst
+END
+corpus.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7604/trunk/nltk/doc/book/corpus.txt
+END
+image_scaling.rst
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7604/trunk/nltk/doc/book/image_scaling.rst
+END
+app-tagsets.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7604/trunk/nltk/doc/book/app-tagsets.rst
+END
+introduction.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7814/trunk/nltk/doc/book/introduction.txt
+END
+app-issues.rst
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7604/trunk/nltk/doc/book/app-issues.rst
+END
+book.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7682/trunk/nltk/doc/book/book.rst
+END
+footer.rst
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8397/trunk/nltk/doc/book/footer.rst
+END
+ch01-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7895/trunk/nltk/doc/book/ch01-extras.rst
+END
+ch05-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7900/trunk/nltk/doc/book/ch05-extras.rst
+END
+ch06-eng.rst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7612/trunk/nltk/doc/book/ch06-eng.rst
+END
+DOCUTILS
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7604/trunk/nltk/doc/book/DOCUTILS
+END
+bib_template.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7758/trunk/nltk/doc/book/bib_template.html
+END
+app-modules.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7604/trunk/nltk/doc/book/app-modules.rst
+END
+copy-edits.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8048/trunk/nltk/doc/book/copy-edits.txt
+END
+ch10.deleted
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8105/trunk/nltk/doc/book/ch10.deleted
+END
+Makefile.docutils
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7604/trunk/nltk/doc/book/Makefile.docutils
+END
+ch00-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7607/trunk/nltk/doc/book/ch00-extras.rst
+END
+ch10-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7720/trunk/nltk/doc/book/ch10-extras.rst
+END
+guidelines.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7604/trunk/nltk/doc/book/guidelines.txt
+END
+sem-exercise.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7604/trunk/nltk/doc/book/sem-exercise.txt
+END
+ch04-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8314/trunk/nltk/doc/book/ch04-extras.rst
+END
+ch08-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8777/trunk/nltk/doc/book/ch08-extras.rst
+END
+lexicon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7604/trunk/nltk/doc/book/lexicon.txt
+END
+ch00-pt.rst
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8418/trunk/nltk/doc/book/ch00-pt.rst
+END
+rst-bugs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7604/trunk/nltk/doc/book/rst-bugs.txt
+END
+intro-outline.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7604/trunk/nltk/doc/book/intro-outline.txt
+END
+html-n.bst
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7604/trunk/nltk/doc/book/html-n.bst
+END
+ch08-old-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8777/trunk/nltk/doc/book/ch08-old-extras.rst
+END
+book.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7929/trunk/nltk/doc/book/book.xml
+END
+SCHEDULE
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7604/trunk/nltk/doc/book/SCHEDULE
+END
+errata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8470/trunk/nltk/doc/book/errata.txt
+END
+ch00.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8221/trunk/nltk/doc/book/ch00.rst
+END
+feedback.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8509/trunk/nltk/doc/book/feedback.txt
+END
+ch01.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8819/trunk/nltk/doc/book/ch01.rst
+END
+ch02.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8372/trunk/nltk/doc/book/ch02.rst
+END
+ch03.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8704/trunk/nltk/doc/book/ch03.rst
+END
+ch04.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8819/trunk/nltk/doc/book/ch04.rst
+END
+deleted
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7901/trunk/nltk/doc/book/deleted
+END
+ch05.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8819/trunk/nltk/doc/book/ch05.rst
+END
+docbook-issues.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7660/trunk/nltk/doc/book/docbook-issues.txt
+END
+ch06.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8466/trunk/nltk/doc/book/ch06.rst
+END
+ch07.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8000/trunk/nltk/doc/book/ch07.rst
+END
+ch03-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7896/trunk/nltk/doc/book/ch03-extras.rst
+END
+ch08.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8734/trunk/nltk/doc/book/ch08.rst
+END
+dict.htm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7604/trunk/nltk/doc/book/dict.htm
+END
+ch09.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8466/trunk/nltk/doc/book/ch09.rst
+END
+ch07-extras.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7983/trunk/nltk/doc/book/ch07-extras.rst
+END
+errata2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8819/trunk/nltk/doc/book/errata2.txt
+END

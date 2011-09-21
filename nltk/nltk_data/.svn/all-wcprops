@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8730/trunk/nltk/nltk_data
+END
+tagsets.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8730/trunk/nltk/nltk_data/tagsets.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk_data/__init__.py
+END
+tagset_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8730/trunk/nltk/nltk_data/tagset_data.py
+END

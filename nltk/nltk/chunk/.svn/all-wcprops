@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8797/trunk/nltk/nltk/chunk
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/nltk/chunk/api.py
+END
+regexp.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8763/trunk/nltk/nltk/chunk/regexp.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8730/trunk/nltk/nltk/chunk/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8778/trunk/nltk/nltk/chunk/__init__.py
+END
+named_entity.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8797/trunk/nltk/nltk/chunk/named_entity.py
+END

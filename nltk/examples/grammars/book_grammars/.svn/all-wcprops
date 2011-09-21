@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8150/trunk/nltk/examples/grammars/book_grammars
+END
+simple-sem.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8149/trunk/nltk/examples/grammars/book_grammars/simple-sem.fcfg
+END
+feat0.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7725/trunk/nltk/examples/grammars/book_grammars/feat0.fcfg
+END
+sql0.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8150/trunk/nltk/examples/grammars/book_grammars/sql0.fcfg
+END
+feat1.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7727/trunk/nltk/examples/grammars/book_grammars/feat1.fcfg
+END
+discourse.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8150/trunk/nltk/examples/grammars/book_grammars/discourse.fcfg
+END
+sql1.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8150/trunk/nltk/examples/grammars/book_grammars/sql1.fcfg
+END
+storage.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8150/trunk/nltk/examples/grammars/book_grammars/storage.fcfg
+END
+drt.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8150/trunk/nltk/examples/grammars/book_grammars/drt.fcfg
+END
+german.fcfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7751/trunk/nltk/examples/grammars/book_grammars/german.fcfg
+END
+background.fol
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7839/trunk/nltk/examples/grammars/book_grammars/background.fol
+END

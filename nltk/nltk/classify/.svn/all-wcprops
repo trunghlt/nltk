@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8801/trunk/nltk/nltk/classify
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8777/trunk/nltk/nltk/classify/api.py
+END
+maxent.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8777/trunk/nltk/nltk/classify/maxent.py
+END
+decisiontree.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8789/trunk/nltk/nltk/classify/decisiontree.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk/classify/util.py
+END
+mallet.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8730/trunk/nltk/nltk/classify/mallet.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8798/trunk/nltk/nltk/classify/__init__.py
+END
+tadm.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk/classify/tadm.py
+END
+svm.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8801/trunk/nltk/nltk/classify/svm.py
+END
+naivebayes.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8731/trunk/nltk/nltk/classify/naivebayes.py
+END
+megam.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/classify/megam.py
+END
+rte_classify.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8730/trunk/nltk/nltk/classify/rte_classify.py
+END
+weka.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk/classify/weka.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/8730/trunk/nltk/nltk/ccg
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8730/trunk/nltk/nltk/ccg/api.py
+END
+combinator.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/ccg/combinator.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8730/trunk/nltk/nltk/ccg/__init__.py
+END
+chart.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/nltk/ccg/chart.py
+END
+lexicon.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8730/trunk/nltk/nltk/ccg/lexicon.py
+END

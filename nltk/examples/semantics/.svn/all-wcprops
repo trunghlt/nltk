@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7065/trunk/nltk/examples/semantics
+END
+chat_pnames.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3842/trunk/nltk/examples/semantics/chat_pnames.cfg
+END
+sem0.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7065/trunk/nltk/examples/semantics/sem0.cfg
+END
+chat.db
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3840/trunk/nltk/examples/semantics/chat.db
+END
+sem1.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7065/trunk/nltk/examples/semantics/sem1.cfg
+END
+sem2.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7065/trunk/nltk/examples/semantics/sem2.cfg
+END
+sem3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7065/trunk/nltk/examples/semantics/sem3.cfg
+END
+chat80.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4672/trunk/nltk/examples/semantics/chat80.cfg
+END
+chat_sentences
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6265/trunk/nltk/examples/semantics/chat_sentences
+END
+model0.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7065/trunk/nltk/examples/semantics/model0.py
+END
+syn2sem.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7065/trunk/nltk/examples/semantics/syn2sem.py
+END
+model1.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7065/trunk/nltk/examples/semantics/model1.py
+END
+demo_sentences
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6265/trunk/nltk/examples/semantics/demo_sentences
+END

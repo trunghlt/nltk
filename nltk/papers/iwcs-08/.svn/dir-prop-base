@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 48
+sem.aux
+sem.bbl
+sem.blg
+sem.log
+sem.out
+sem.pdf
+
+END

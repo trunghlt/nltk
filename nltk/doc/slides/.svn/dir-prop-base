@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 81
+*.out
+*.pdf
+*.log
+*.nav
+*.toc
+*.aux
+*.snm
+*.vrb
+tree_images
+index.html
+handouts
+
+
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/8819/trunk/nltk/doc
+END
+HouseStyle.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6455/trunk/nltk/doc/HouseStyle.txt
+END
+xelatexsymbols.tex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4497/trunk/nltk/doc/xelatexsymbols.tex
+END
+definitions.rst
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8779/trunk/nltk/doc/definitions.rst
+END
+xincluder.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8730/trunk/nltk/doc/xincluder.py
+END
+nltkdoc.css
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5901/trunk/nltk/doc/nltkdoc.css
+END
+pages.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8557/trunk/nltk/doc/pages.py
+END
+xmlpp.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8557/trunk/nltk/doc/xmlpp.py
+END
+definitions.sty
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6723/trunk/nltk/doc/definitions.sty
+END
+refs.bib
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8174/trunk/nltk/doc/refs.bib
+END
+rst.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8730/trunk/nltk/doc/rst.py
+END
+avm.sty
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4105/trunk/nltk/doc/avm.sty
+END
+pdffonts.sty
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3292/trunk/nltk/doc/pdffonts.sty
+END
+examples.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8730/trunk/nltk/doc/examples.py
+END
+docbook.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/8557/trunk/nltk/doc/docbook.py
+END
+doctest_split.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8730/trunk/nltk/doc/doctest_split.py
+END
+rsthacks.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/8557/trunk/nltk/doc/rsthacks.py
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6510/trunk/nltk/doc/index.html
+END
+nltk.ppt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/5341/trunk/nltk/doc/nltk.ppt
+END
+tree2image.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/doc/tree2image.py
+END
+default.css
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2976/trunk/nltk/doc/default.css
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8730/trunk/nltk/doc/Makefile
+END
+latexhacks.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6750/trunk/nltk/doc/latexhacks.py
+END

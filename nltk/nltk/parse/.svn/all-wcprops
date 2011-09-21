@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8778/trunk/nltk/nltk/parse
+END
+broker_test.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4645/trunk/nltk/nltk/parse/broker_test.cfg
+END
+generate.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/parse/generate.py
+END
+malt.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8742/trunk/nltk/nltk/parse/malt.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8778/trunk/nltk/nltk/parse/__init__.py
+END
+dependencygraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8730/trunk/nltk/nltk/parse/dependencygraph.py
+END
+nonprojectivedependencyparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/8730/trunk/nltk/nltk/parse/nonprojectivedependencyparser.py
+END
+chart.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8778/trunk/nltk/nltk/parse/chart.py
+END
+earleychart.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8730/trunk/nltk/nltk/parse/earleychart.py
+END
+viterbi.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk/parse/viterbi.py
+END
+rd.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8730/trunk/nltk/nltk/parse/rd.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8777/trunk/nltk/nltk/parse/api.py
+END
+featurechart.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8777/trunk/nltk/nltk/parse/featurechart.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8730/trunk/nltk/nltk/parse/util.py
+END
+pchart.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8730/trunk/nltk/nltk/parse/pchart.py
+END
+sr.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8730/trunk/nltk/nltk/parse/sr.py
+END
+test.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4645/trunk/nltk/nltk/parse/test.cfg
+END
+projectivedependencyparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8730/trunk/nltk/nltk/parse/projectivedependencyparser.py
+END

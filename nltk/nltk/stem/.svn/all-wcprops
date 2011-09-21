@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8780/trunk/nltk/nltk/stem
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8730/trunk/nltk/nltk/stem/api.py
+END
+regexp.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8730/trunk/nltk/nltk/stem/regexp.py
+END
+porter.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8780/trunk/nltk/nltk/stem/porter.py
+END
+lancaster.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8730/trunk/nltk/nltk/stem/lancaster.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8778/trunk/nltk/nltk/stem/__init__.py
+END
+rslp.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/nltk/stem/rslp.py
+END
+snowball.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8730/trunk/nltk/nltk/stem/snowball.py
+END
+wordnet.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/8778/trunk/nltk/nltk/stem/wordnet.py
+END
+isri.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8730/trunk/nltk/nltk/stem/isri.py
+END
