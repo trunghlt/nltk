@@ -47,6 +47,7 @@ setup(
                 'nltk.cluster',
                 'nltk.draw',
                 'nltk.examples',
+                'nltk.etree',
                 'nltk.inference',
                 'nltk.metrics',
                 'nltk.misc',
