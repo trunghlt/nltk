@@ -1,0 +1,5 @@
+MaltParser with pretrained model:
+
+>> import nltk
+>> parser = nltk.parse.malt.MaltParser(working_dir=".", mco="engmalt.poly.mco")
+>> parser.raw_parse("I love music").tree().pprint()
