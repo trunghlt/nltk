@@ -19,10 +19,12 @@ from nltk.internals import find_binary
 
 class MaltParser(ParserI):
 
-    def __init__(self, tagger=None):
+    def __init__(self, tagger=None, mco=None, working_dir=None):
         self.config_malt()
-        self.mco = 'malt_temp'
-        self._trained = False
+        self.mco = 'malt_temp' if mco is None else mco
+        self.working_dir = tempfile.gettempdir() if working_dir is None\
+                           else working_dir
+        self._trained = mco is not None
         
         if tagger is not None:
             self.tagger = tagger
@@ -113,12 +115,12 @@ class MaltParser(ParserI):
         if not self._trained:
             raise Exception("Parser has not been trained.  Call train() first.")
             
-        input_file = os.path.join(tempfile.gettempdir(), 'malt_input.conll')
-        output_file = os.path.join(tempfile.gettempdir(), 'malt_output.conll')
+        input_file = os.path.join(self.working_dir, 'malt_input.conll')
+        output_file = os.path.join(self.working_dir, 'malt_output.conll')
         
         execute_string = 'java -jar %s -w %s -c %s -i %s -o %s -m parse'
         if not verbose:
-            execute_string += ' > ' + os.path.join(tempfile.gettempdir(), "malt.out")
+            execute_string += ' > ' + os.path.join(self.working_dir, "malt.out")
         
         f = None
         try:
@@ -130,7 +132,7 @@ class MaltParser(ParserI):
             f.write('\n')
             f.close()
         
-            cmd = ['java', '-jar %s' % self._malt_bin, '-w %s' % tempfile.gettempdir(), 
+            cmd = ['java', '-jar %s' % self._malt_bin, '-w %s' % self.working_dir, 
                    '-c %s' % self.mco, '-i %s' % input_file, '-o %s' % output_file, '-m parse']
 
             self._execute(cmd, 'parse', verbose)
@@ -145,7 +147,7 @@ class MaltParser(ParserI):
         
         @param depgraphs: C{list} of C{DependencyGraph}s for training input data
         """
-        input_file = os.path.join(tempfile.gettempdir(),'malt_train.conll')
+        input_file = os.path.join(self.working_dir,'malt_train.conll')
 
         f = None
         try:
@@ -169,13 +171,13 @@ class MaltParser(ParserI):
         f = None
         if hasattr(conll_file, 'zipfile'):
             zip_conll_file = conll_file
-            conll_file = os.path.join(tempfile.gettempdir(),'malt_train.conll')
+            conll_file = os.path.join(self.working_dir,'malt_train.conll')
             conll_str = zip_conll_file.open().read()
             f = open(conll_file,'w')
             f.write(conll_str)
             f.close()        
 
-        cmd = ['java', '-jar %s' % self._malt_bin, '-w %s' % tempfile.gettempdir(), 
+        cmd = ['java', '-jar %s' % self._malt_bin, '-w %s' % self.working_dir, 
                '-c %s' % self.mco, '-i %s' % conll_file, '-m learn']
         
 #        p = subprocess.Popen(cmd, stdout=subprocess.PIPE,
@@ -189,7 +191,7 @@ class MaltParser(ParserI):
         
     def _execute(self, cmd, type, verbose=False):
         if not verbose: 
-            temp_dir = os.path.join(tempfile.gettempdir(), '')
+            temp_dir = os.path.join(self.working_dir, '')
             cmd.append(' > %smalt_%s.out 2> %smalt_%s.err' % ((temp_dir, type)*2))
         malt_exit = os.system(' '.join(cmd))
 
