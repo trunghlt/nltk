@@ -98,6 +98,18 @@ class MaltParser(ParserI):
         """
         words = nltk.word_tokenize(sentence)
         return self.parse(words, verbose)
+        
+    def maltize(self, tagged_sent):
+        """ Convert a list of (word, tag) into MaltParser input format
+        @param tagged_sent: [(word, tag),...]
+        @return: A string in MaltParser input format
+        """
+        result = ""
+        for (i, (word,tag)) in enumerate(tagged_sent):
+            result += '%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n' % \
+                      (i+1, word, '_', tag, tag, '_', '0', 'a', '_', '_')
+        return result
+        
       
     def tagged_parse(self, sentence, verbose=False):
         """
